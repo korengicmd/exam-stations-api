@@ -1,0 +1,793 @@
+[
+  {
+    "practice_num": 1,
+    "category": "clinical_large_1",
+    "sitting_code": "f22",
+    "listed_title": "קליני 1 גדולה",
+    "has_media": true
+  },
+  {
+    "practice_num": 2,
+    "category": "clinical_short_3",
+    "sitting_code": "f22",
+    "listed_title": "יום שני קצרות קליני 3",
+    "has_media": true
+  },
+  {
+    "practice_num": 3,
+    "category": "org_practice",
+    "sitting_code": "f22",
+    "listed_title": "ארגון הפרקטיקה שאלה זהה",
+    "has_media": true
+  },
+  {
+    "practice_num": 4,
+    "category": "clinical_large_2",
+    "sitting_code": "f22",
+    "listed_title": "קליני 2 יום שני גדולה",
+    "has_media": true
+  },
+  {
+    "practice_num": 5,
+    "category": "clinical_short_4",
+    "sitting_code": "f22",
+    "listed_title": "קצרות יום שני קליני 4",
+    "has_media": true
+  },
+  {
+    "practice_num": 6,
+    "category": "family_same",
+    "sitting_code": "f22",
+    "listed_title": "יום שני משפחה שאלה זהה",
+    "has_media": true
+  },
+  {
+    "practice_num": 7,
+    "category": "clinical_short_5",
+    "sitting_code": "f22",
+    "listed_title": "יום שלישי קצרות קליני 5",
+    "has_media": true
+  },
+  {
+    "practice_num": 8,
+    "category": "clinical_large_1",
+    "sitting_code": "f22",
+    "listed_title": "קליני 1 גדולה",
+    "has_media": true
+  },
+  {
+    "practice_num": 9,
+    "category": "clinical_short_3",
+    "sitting_code": "f22",
+    "listed_title": "קצרות קליני 3",
+    "has_media": true
+  },
+  {
+    "practice_num": 10,
+    "category": "org_practice",
+    "sitting_code": "f22",
+    "listed_title": "ארגון פרקטיקה שאלה זהה",
+    "has_media": true
+  },
+  {
+    "practice_num": 11,
+    "category": "clinical_large_2",
+    "sitting_code": "f22",
+    "listed_title": "קליני 2 גדולה",
+    "has_media": false
+  },
+  {
+    "practice_num": 12,
+    "category": "clinical_large_1",
+    "sitting_code": "sp23",
+    "listed_title": "קליני 1 גדולה",
+    "has_media": true
+  },
+  {
+    "practice_num": 13,
+    "category": "clinical_short_3",
+    "sitting_code": "sp23",
+    "listed_title": "קצרות קליני 3",
+    "has_media": true
+  },
+  {
+    "practice_num": 14,
+    "category": "org_practice",
+    "sitting_code": "sp23",
+    "listed_title": "ארגון פרקטיקה שאלה זהה",
+    "has_media": false
+  },
+  {
+    "practice_num": 15,
+    "category": "clinical_large_2",
+    "sitting_code": "sp23",
+    "listed_title": "קליני 2 גדולה",
+    "has_media": true
+  },
+  {
+    "practice_num": 16,
+    "category": "clinical_short_4",
+    "sitting_code": "sp23",
+    "listed_title": "קצרות קליני 4",
+    "has_media": true
+  },
+  {
+    "practice_num": 17,
+    "category": "family_same",
+    "sitting_code": "sp23",
+    "listed_title": "משפחה שאלה זהה",
+    "has_media": true
+  },
+  {
+    "practice_num": 18,
+    "category": "clinical_short_5",
+    "sitting_code": "sp23",
+    "listed_title": "קצרות קליני 5",
+    "has_media": true
+  },
+  {
+    "practice_num": 19,
+    "category": "clinical_large_1",
+    "sitting_code": "sp23",
+    "listed_title": "קליני 1 גדולה",
+    "has_media": false
+  },
+  {
+    "practice_num": 20,
+    "category": "clinical_short_3",
+    "sitting_code": "sp23",
+    "listed_title": "קצרות קליני 3",
+    "has_media": true
+  },
+  {
+    "practice_num": 21,
+    "category": "org_practice",
+    "sitting_code": "sp23",
+    "listed_title": "ארגון פרקטיקה שאלה זהה",
+    "has_media": true
+  },
+  {
+    "practice_num": 22,
+    "category": "clinical_large_2",
+    "sitting_code": "sp23",
+    "listed_title": "קליני 2 גדולה",
+    "has_media": true
+  },
+  {
+    "practice_num": 23,
+    "category": "clinical_short_4",
+    "sitting_code": "sp23",
+    "listed_title": "קצרות קליני 4",
+    "has_media": true
+  },
+  {
+    "practice_num": 24,
+    "category": "family_same",
+    "sitting_code": "sp23",
+    "listed_title": "משפחה שאלה זהה",
+    "has_media": true
+  },
+  {
+    "practice_num": 25,
+    "category": "clinical_short_5",
+    "sitting_code": "sp23",
+    "listed_title": "קצרות קליני 5",
+    "has_media": true
+  },
+  {
+    "practice_num": 26,
+    "category": "clinical_large_1",
+    "sitting_code": "f23",
+    "listed_title": "יום ראשון 25.2.24 קליני 1 גדולה בוחנים",
+    "has_media": true
+  },
+  {
+    "practice_num": 27,
+    "category": "clinical_short_3",
+    "sitting_code": "f23",
+    "listed_title": "יום ראשון 25.2.24 קצרות קליני 3 בוחנים",
+    "has_media": true
+  },
+  {
+    "practice_num": 28,
+    "category": "org_practice",
+    "sitting_code": "f23",
+    "listed_title": "יום ראשון 25.2.2024 ארגון פרקטיקה שאלה זהה בוחנים",
+    "has_media": true
+  },
+  {
+    "practice_num": 29,
+    "category": "clinical_large_2",
+    "sitting_code": "f23",
+    "listed_title": "יום ראשון 25.2.24 קליני 2 גדולה בוחנים",
+    "has_media": false
+  },
+  {
+    "practice_num": 30,
+    "category": "clinical_short_4",
+    "sitting_code": "f23",
+    "listed_title": "יום ראשון 25.2.24 קצרות קליני 4 בוחנים",
+    "has_media": true
+  },
+  {
+    "practice_num": 31,
+    "category": "family_same",
+    "sitting_code": "f23",
+    "listed_title": "יום ראשון 25.2.2024 משפחה שאלה זהה בוחנים",
+    "has_media": true
+  },
+  {
+    "practice_num": 32,
+    "category": "clinical_short_5",
+    "sitting_code": "f23",
+    "listed_title": "יום ראשון 25.2.24 קצרות קליני 5 בוחנים",
+    "has_media": true
+  },
+  {
+    "practice_num": 33,
+    "category": "clinical_large_1",
+    "sitting_code": "f23",
+    "listed_title": "יום שני 26.2.24 קליני 1 גדולה בוחנים",
+    "has_media": true
+  },
+  {
+    "practice_num": 34,
+    "category": "clinical_short_3",
+    "sitting_code": "f23",
+    "listed_title": "יום שני 26.2.24 קצרות קליני 3 בוחנים",
+    "has_media": true
+  },
+  {
+    "practice_num": 35,
+    "category": "org_practice",
+    "sitting_code": "f23",
+    "listed_title": "יום שני 26.2.2024 ארגון פרקטיקה שאלה זהה בוחנים",
+    "has_media": true
+  },
+  {
+    "practice_num": 36,
+    "category": "clinical_large_2",
+    "sitting_code": "f23",
+    "listed_title": "יום שני 26.2.24 קליני 2 גדולה בוחנים",
+    "has_media": true
+  },
+  {
+    "practice_num": 37,
+    "category": "clinical_short_4",
+    "sitting_code": "f23",
+    "listed_title": "יום שני 26.2.24 קצרות קליני 4 בוחנים",
+    "has_media": true
+  },
+  {
+    "practice_num": 38,
+    "category": "family_same",
+    "sitting_code": "f23",
+    "listed_title": "יום שני 26.2.2024 משפחה שאלה זהה בוחנים מעודכן",
+    "has_media": true
+  },
+  {
+    "practice_num": 39,
+    "category": "clinical_short_5",
+    "sitting_code": "f23",
+    "listed_title": "יום שני 26.2.24 קצרות קליני 5 בוחנים",
+    "has_media": true
+  },
+  {
+    "practice_num": 40,
+    "category": "org_practice",
+    "sitting_code": "f23",
+    "listed_title": "יום שני 26.2.2024 ארגון פרקטיקה שאלה זהה בוחנים",
+    "has_media": true
+  },
+  {
+    "practice_num": 41,
+    "category": "clinical_large_1",
+    "sitting_code": "sp24",
+    "listed_title": "קלינית גדולה 1 יום ב - 22.07.24 לבוחנים",
+    "has_media": false
+  },
+  {
+    "practice_num": 42,
+    "category": "clinical_short_3",
+    "sitting_code": "sp24",
+    "listed_title": "קלינית קצרה 3 יום ב 22.07.24 לבוחנים",
+    "has_media": true
+  },
+  {
+    "practice_num": 43,
+    "category": "org_practice",
+    "sitting_code": "sp24",
+    "listed_title": "ארגון פרקטיקה שאלה זהה יום ב 22.7.24 לבוחנים",
+    "has_media": true
+  },
+  {
+    "practice_num": 44,
+    "category": "clinical_large_2",
+    "sitting_code": "sp24",
+    "listed_title": "קלינית גדולה 2 יום ב - 22.07.24 לבוחנים",
+    "has_media": false
+  },
+  {
+    "practice_num": 45,
+    "category": "clinical_short_4",
+    "sitting_code": "sp24",
+    "listed_title": "קלינית קצרה 4 יום ב 22.07.24 לבוחנים",
+    "has_media": true
+  },
+  {
+    "practice_num": 46,
+    "category": "family_same",
+    "sitting_code": "sp24",
+    "listed_title": "יום שני 22.7.2024 משפחה שאלה זהה בוחנים",
+    "has_media": false
+  },
+  {
+    "practice_num": 47,
+    "category": "clinical_short_5",
+    "sitting_code": "sp24",
+    "listed_title": "קלינית קצרה 5 יום ב - 22.07.24 לבוחנים",
+    "has_media": true
+  },
+  {
+    "practice_num": 48,
+    "category": "marm",
+    "sitting_code": "sp24",
+    "listed_title": "תחנת מר\"מ יום ב- 22.7.24 לבוחנים",
+    "has_media": false
+  },
+  {
+    "practice_num": 49,
+    "category": "clinical_large_1",
+    "sitting_code": "sp24",
+    "listed_title": "קלינית גדולה 1 יום ג - 23.07.24 לבוחנים",
+    "has_media": true
+  },
+  {
+    "practice_num": 50,
+    "category": "clinical_short_3",
+    "sitting_code": "sp24",
+    "listed_title": "קלינית קצרות 3 יום ג - 23.07.24 לבוחנים",
+    "has_media": true
+  },
+  {
+    "practice_num": 51,
+    "category": "org_practice",
+    "sitting_code": "sp24",
+    "listed_title": "ארגון הפרקטיקה שאלה זהה יום ג 23.7.24 לבוחנים",
+    "has_media": true
+  },
+  {
+    "practice_num": 52,
+    "category": "clinical_large_2",
+    "sitting_code": "sp24",
+    "listed_title": "קלינית גדולה 2 יום ג - 23.07.24 לבוחנים",
+    "has_media": true
+  },
+  {
+    "practice_num": 53,
+    "category": "clinical_short_4",
+    "sitting_code": "sp24",
+    "listed_title": "קלינית קצרות 4 יום ג - 23.07.24 לבוחנים",
+    "has_media": true
+  },
+  {
+    "practice_num": 54,
+    "category": "family_same",
+    "sitting_code": "sp24",
+    "listed_title": "משפחה שאלה זהה יום שלישי 23.7.24 לבוחנים",
+    "has_media": true
+  },
+  {
+    "practice_num": 55,
+    "category": "clinical_short_5",
+    "sitting_code": "sp24",
+    "listed_title": "קלינית קצרות 5 יום ג - 23.07.24 לבוחנים",
+    "has_media": true
+  },
+  {
+    "practice_num": 56,
+    "category": "marm",
+    "sitting_code": "sp24",
+    "listed_title": "תחנת מר\"מ יום ג - 23.7.24 לבוחנים",
+    "has_media": false
+  },
+  {
+    "practice_num": 57,
+    "category": "clinical_large_1",
+    "sitting_code": "f24",
+    "listed_title": "קלינית גדולה 1 יום א' - 22.12.24",
+    "has_media": true
+  },
+  {
+    "practice_num": 58,
+    "category": "clinical_short_3",
+    "sitting_code": "f24",
+    "listed_title": "קצרה 3 יום א' - 22.12.24",
+    "has_media": true
+  },
+  {
+    "practice_num": 59,
+    "category": "org_practice",
+    "sitting_code": "f24",
+    "listed_title": "ארגון פרקטיקה שאלה זהה יום א' - 22.12.24",
+    "has_media": true
+  },
+  {
+    "practice_num": 60,
+    "category": "clinical_large_2",
+    "sitting_code": "f24",
+    "listed_title": "קלינית גדולה 2 יום א' - 22.12.24",
+    "has_media": false
+  },
+  {
+    "practice_num": 61,
+    "category": "clinical_short_4",
+    "sitting_code": "f24",
+    "listed_title": "קצרה 4 יום א' - 22.12.24",
+    "has_media": true
+  },
+  {
+    "practice_num": 62,
+    "category": "family_same",
+    "sitting_code": "f24",
+    "listed_title": "שאלה זהה משפחה יום ראשון 22.12.24",
+    "has_media": false
+  },
+  {
+    "practice_num": 63,
+    "category": "clinical_short_5",
+    "sitting_code": "f24",
+    "listed_title": "קצרה 5 יום א' - 22.12.24",
+    "has_media": true
+  },
+  {
+    "practice_num": 64,
+    "category": "marm",
+    "sitting_code": "f24",
+    "listed_title": "תחנת מר\"מ יום ב' - 23.12.24",
+    "has_media": false
+  },
+  {
+    "practice_num": 65,
+    "category": "clinical_large_1",
+    "sitting_code": "f24",
+    "listed_title": "קלינית 1 יום ב' - 23.12.24",
+    "has_media": false
+  },
+  {
+    "practice_num": 66,
+    "category": "clinical_short_3",
+    "sitting_code": "f24",
+    "listed_title": "קלינית קצרה 3 יום ב' - 23.12.24",
+    "has_media": true
+  },
+  {
+    "practice_num": 67,
+    "category": "org_practice",
+    "sitting_code": "f24",
+    "listed_title": "ארגון פרקטיקה שאלה זהה יום ב' - 23.12.24",
+    "has_media": true
+  },
+  {
+    "practice_num": 68,
+    "category": "clinical_large_2",
+    "sitting_code": "f24",
+    "listed_title": "קלינית גדולה 2 יום ב' - 23.12.24",
+    "has_media": true
+  },
+  {
+    "practice_num": 69,
+    "category": "clinical_short_4",
+    "sitting_code": "f24",
+    "listed_title": "קלינית קצרה 4 יום ב' - 23.12.24",
+    "has_media": true
+  },
+  {
+    "practice_num": 70,
+    "category": "family_same",
+    "sitting_code": "f24",
+    "listed_title": "יום שני 23.12.2024 משפחה שאלה זהה",
+    "has_media": false
+  },
+  {
+    "practice_num": 71,
+    "category": "clinical_short_5",
+    "sitting_code": "f24",
+    "listed_title": "קלינית קצרה 5 יום ב' - 23.12.24",
+    "has_media": false
+  },
+  {
+    "practice_num": 72,
+    "category": "clinical_large_1",
+    "sitting_code": "sp25",
+    "listed_title": "קלינית גדולה 1 יום ב' 05.05.25",
+    "has_media": false
+  },
+  {
+    "practice_num": 73,
+    "category": "clinical_short_3",
+    "sitting_code": "sp25",
+    "listed_title": "קלינית קצרה 3 יום ב' 05.05.25",
+    "has_media": true
+  },
+  {
+    "practice_num": 74,
+    "category": "org_practice",
+    "sitting_code": "sp25",
+    "listed_title": "ארגון פרקטיקה שאלה זהה יום ב' 05.05.25",
+    "has_media": true
+  },
+  {
+    "practice_num": 75,
+    "category": "clinical_large_2",
+    "sitting_code": "sp25",
+    "listed_title": "קלינית גדולה 2 יום ב' 05.05.25",
+    "has_media": true
+  },
+  {
+    "practice_num": 76,
+    "category": "clinical_short_4",
+    "sitting_code": "sp25",
+    "listed_title": "קלינית קצרה 4 יום ב' 05.05.25",
+    "has_media": false
+  },
+  {
+    "practice_num": 77,
+    "category": "family_same",
+    "sitting_code": "sp25",
+    "listed_title": "משפחה שאלה זהה יום ב' 05.05.25",
+    "has_media": false
+  },
+  {
+    "practice_num": 78,
+    "category": "clinical_short_5",
+    "sitting_code": "sp25",
+    "listed_title": "קלינית קצרה 5 יום ב' 05.05.25",
+    "has_media": true
+  },
+  {
+    "practice_num": 79,
+    "category": "marm",
+    "sitting_code": "sp25",
+    "listed_title": "תחנת מר\"מ יום ב' 05.05.25",
+    "has_media": false
+  },
+  {
+    "practice_num": 80,
+    "category": "clinical_large_1",
+    "sitting_code": "sp25",
+    "listed_title": "קלינית גדולה 1 יום ג' 06.05.25",
+    "has_media": true
+  },
+  {
+    "practice_num": 81,
+    "category": "clinical_short_3",
+    "sitting_code": "sp25",
+    "listed_title": "קלינית קצרה 3 יום ג' 06.05.25",
+    "has_media": true
+  },
+  {
+    "practice_num": 82,
+    "category": "org_practice",
+    "sitting_code": "sp25",
+    "listed_title": "ארגון פרקטיקה שאלה זהה יום ג' 06.05.25",
+    "has_media": true
+  },
+  {
+    "practice_num": 83,
+    "category": "clinical_large_2",
+    "sitting_code": "sp25",
+    "listed_title": "קלינית גדולה 2 יום ג' 06.05.25",
+    "has_media": true
+  },
+  {
+    "practice_num": 84,
+    "category": "clinical_short_4",
+    "sitting_code": "sp25",
+    "listed_title": "קלינית קצרה 4 יום ג' 06.05.25",
+    "has_media": true
+  },
+  {
+    "practice_num": 85,
+    "category": "family_same",
+    "sitting_code": "sp25",
+    "listed_title": "משפחה שאלה זהה יום ג' 06.05.25",
+    "has_media": false
+  },
+  {
+    "practice_num": 86,
+    "category": "clinical_short_5",
+    "sitting_code": "sp25",
+    "listed_title": "קלינית קצרה 5 יום ג' 06.05.25",
+    "has_media": true
+  },
+  {
+    "practice_num": 87,
+    "category": "marm",
+    "sitting_code": "sp25",
+    "listed_title": "תחנת מר\"מ יום ג' 06.05.25",
+    "has_media": false
+  },
+  {
+    "practice_num": 88,
+    "category": "clinical_large_1",
+    "sitting_code": "f25",
+    "listed_title": "קלינית גדולה 1 יום ב' 17.11.25",
+    "has_media": true
+  },
+  {
+    "practice_num": 89,
+    "category": "clinical_short_3",
+    "sitting_code": "f25",
+    "listed_title": "קלינית קצרה 3 יום ב' 17.11.25",
+    "has_media": true
+  },
+  {
+    "practice_num": 90,
+    "category": "org_practice",
+    "sitting_code": "f25",
+    "listed_title": "ארגון פרקטיקה יום ב' 17.11.25",
+    "has_media": true
+  },
+  {
+    "practice_num": 91,
+    "category": "clinical_large_2",
+    "sitting_code": "f25",
+    "listed_title": "קלינית גדולה 2 יום ב' 17.11.25",
+    "has_media": true
+  },
+  {
+    "practice_num": 92,
+    "category": "clinical_short_4",
+    "sitting_code": "f25",
+    "listed_title": "קלינית קצרה 4 יום ב' 17.11.25",
+    "has_media": true
+  },
+  {
+    "practice_num": 93,
+    "category": "family_same",
+    "sitting_code": "f25",
+    "listed_title": "משפחה שאלה זהה יום ב' 17.11.25",
+    "has_media": true
+  },
+  {
+    "practice_num": 94,
+    "category": "marm",
+    "sitting_code": "f25",
+    "listed_title": "תחנת מר\"מ יום ב' 17.11.25",
+    "has_media": false
+  },
+  {
+    "practice_num": 95,
+    "category": "clinical_large_1",
+    "sitting_code": "f25",
+    "listed_title": "קלינית גדולה 1 יום ג' 18.11.25",
+    "has_media": false
+  },
+  {
+    "practice_num": 96,
+    "category": "clinical_short_3",
+    "sitting_code": "f25",
+    "listed_title": "קלינית קצרה 3 יום ג' 18.11.25",
+    "has_media": true
+  },
+  {
+    "practice_num": 97,
+    "category": "org_practice",
+    "sitting_code": "f25",
+    "listed_title": "ארגון פרקטיקה יום ג' 18.11.25",
+    "has_media": true
+  },
+  {
+    "practice_num": 98,
+    "category": "clinical_large_2",
+    "sitting_code": "f25",
+    "listed_title": "קלינית גדולה 2 יום ג' 18.11.25",
+    "has_media": true
+  },
+  {
+    "practice_num": 99,
+    "category": "clinical_short_4",
+    "sitting_code": "f25",
+    "listed_title": "קלינית קצרה 4 יום ג' 18.11.25",
+    "has_media": true
+  },
+  {
+    "practice_num": 100,
+    "category": "family_same",
+    "sitting_code": "f25",
+    "listed_title": "משפחה שאלה זהה יום ג' 18.11.25",
+    "has_media": true
+  },
+  {
+    "practice_num": 101,
+    "category": "marm",
+    "sitting_code": "f25",
+    "listed_title": "תחנת מר\"מ יום ג' 18.11.25",
+    "has_media": false
+  },
+  {
+    "practice_num": 102,
+    "category": "clinical_large_1",
+    "sitting_code": "sp26",
+    "listed_title": "קלינית גדולה 1 יום ג' 28.04.26",
+    "has_media": true
+  },
+  {
+    "practice_num": 103,
+    "category": "clinical_short_3",
+    "sitting_code": "sp26",
+    "listed_title": "קלינית קצרה 3 יום ב' 27.04.26",
+    "has_media": true
+  },
+  {
+    "practice_num": 104,
+    "category": "clinical_large_2",
+    "sitting_code": "sp26",
+    "listed_title": "קלינית גדולה 2 יום ב' 27.04.26",
+    "has_media": true
+  },
+  {
+    "practice_num": 105,
+    "category": "clinical_short_4",
+    "sitting_code": "sp26",
+    "listed_title": "קלינית קצרה 4 יום ב' 27.04.26",
+    "has_media": true
+  },
+  {
+    "practice_num": 106,
+    "category": "family_same",
+    "sitting_code": "sp26",
+    "listed_title": "משפחה שאלה זהה יום ב' 27.04.26",
+    "has_media": false
+  },
+  {
+    "practice_num": 107,
+    "category": "marm",
+    "sitting_code": "sp26",
+    "listed_title": "תחנת מר\"מ יום ב' 27.04.26",
+    "has_media": false
+  },
+  {
+    "practice_num": 108,
+    "category": "ebm_integrative",
+    "sitting_code": "sp26",
+    "listed_title": "שאלה אינטגרטיבית קלינית +EBM גדולה 1 יום ב' 27.04.26",
+    "has_media": true
+  },
+  {
+    "practice_num": 109,
+    "category": "clinical_short_3",
+    "sitting_code": "sp26",
+    "listed_title": "קלינית קצרה 3 יום ג' 28.04.26",
+    "has_media": true
+  },
+  {
+    "practice_num": 110,
+    "category": "clinical_large_2",
+    "sitting_code": "sp26",
+    "listed_title": "קלינית גדולה 2 יום ג' 28.04.26",
+    "has_media": true
+  },
+  {
+    "practice_num": 111,
+    "category": "clinical_short_4",
+    "sitting_code": "sp26",
+    "listed_title": "קלינית קצרה 4 יום ג' 28.04.26",
+    "has_media": true
+  },
+  {
+    "practice_num": 112,
+    "category": "family_same",
+    "sitting_code": "sp26",
+    "listed_title": "משפחה שאלה זהה יום ג' 28.04.26",
+    "has_media": true
+  },
+  {
+    "practice_num": 113,
+    "category": "marm",
+    "sitting_code": "sp26",
+    "listed_title": "תחנת מר\"מ יום ג' 28.04.26",
+    "has_media": false
+  }
+]
